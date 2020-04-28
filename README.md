@@ -1,3 +1,20 @@
+Greetings!
+
+<img width="825" alt="Screen Shot 2020-04-29 at 8 38 26 AM" src="https://user-images.githubusercontent.com/5735235/80548105-05788a00-89f5-11ea-8939-aa6d3b5f96d4.png">
+
+
+All infrastructure is created throught AWS CDK.
+
+1. We use Slack to get notification and send command to AWS.
+2. We use 2 GitHub repository to store your application code and database schema.
+   - Application : https://github.com/viroses/shopizer
+   - Database schema : https://github.com/viroses/db_cicd
+
+
+==========================================
+
+Here is how to get started CDK. (https://cdkworkshop.com/)
+
 # Welcome to your CDK Java project!
 
 This is a blank project for Java development with CDK.
